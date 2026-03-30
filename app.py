@@ -9,8 +9,7 @@ from plotly.subplots import make_subplots
 st.set_page_config(page_title="Austria Combined ESI Dashboard", layout="wide")
 
 # Get the absolute path to the data directory
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 BASE_PATH = os.path.join(PROJECT_ROOT, "data", "processed")
 
 @st.cache_data
