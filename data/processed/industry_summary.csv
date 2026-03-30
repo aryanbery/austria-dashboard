@@ -1,0 +1,20 @@
+industry,total_firms,classified_firms,high_growth_firms,mean_aagr,high_growth_share
+G - Wholesale and retail trade; repair of motor vehicles and motorcycles,9700,4510,366,0.03241521578947985,0.0811529933481153
+F - Construction,7564,3662,340,0.041094247235645635,0.09284543965046423
+C - Manufacturing,6862,3768,330,0.035754816248846966,0.0875796178343949
+I - Accommodation and food service activities,4989,1171,142,0.07030190436665006,0.12126387702818105
+"M - Professional, scientific and technical activities",4035,905,145,0.07984999879228073,0.16022099447513813
+N - Administrative and support service activities,2673,813,117,0.08226950004431964,0.14391143911439114
+H - Transportation and storage,2658,1331,146,0.05020272467144509,0.10969196093163035
+J - Information and communication,1703,567,124,0.10876994996991075,0.21869488536155202
+K - Financial and insurance activities,1455,533,59,-0.008583778387051247,0.11069418386491557
+Q - Human health and social work activities,1058,297,24,0.06985893759943897,0.08080808080808081
+L - Real estate activities,986,295,28,-0.11060827905932755,0.09491525423728814
+S - Other service activities,734,230,17,0.03602716110669862,0.07391304347826087
+"R - Arts, entertainment and recreation",704,161,15,0.0237843705062001,0.09316770186335403
+P - Education,329,91,8,0.07992810761322737,0.08791208791208792
+"E - Water supply; sewerage, waste management and remediation activities",237,131,11,0.04937713230602424,0.08396946564885496
+"D - Electricity, gas, steam and air conditioning supply",153,68,7,0.092785870692616,0.10294117647058823
+"A - Agriculture, forestry and fishing",152,56,2,0.04754635110230641,0.03571428571428571
+B - Mining and quarrying,43,24,0,-0.022923507918753114,0.0
+O - Public administration and defence; compulsory social security,38,16,2,0.031181896299664946,0.125

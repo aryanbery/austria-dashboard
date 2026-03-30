@@ -1,0 +1,8 @@
+pip install pandas openpyxl
+import pandas as pd 
+
+# Load the Excel file
+df = pd.read_excel('AT.pkl')
+
+# Save to Excel
+df.to_excel("your_file.xlsx", index=False)

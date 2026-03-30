@@ -1,0 +1,14 @@
+{
+  "total_firms": 46085,
+  "classified_firms": 18629.0,
+  "unclassified_firms": 27456.0,
+  "high_growth_firms": 1883.0,
+  "not_high_growth_firms": 16746.0,
+  "classified_pct": 40.423131170662906,
+  "high_growth_pct": 10.107896290729508,
+  "mean_aagr": 0.042981070895329654,
+  "median_aagr": 0.0,
+  "vienna_high_growth_share": 0.11936936936936937,
+  "vienna_high_growth_firms": 371,
+  "vienna_total_firms": 10066
+}
